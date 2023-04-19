@@ -4,3 +4,24 @@ textarea{
     margin: 1rem;
     padding: 2rem;
 }
+
+#output{
+    width: 80%;
+    height: 20vh;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#btn{
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#btn-translate{
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
