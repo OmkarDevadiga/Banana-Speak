@@ -1,9 +1,21 @@
+/* Body */
+
+body{
+    margin: 0px auto;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
 /* Heading */
 
 h1{
     text-align: center;
     font-size: 2rem;
     text-decoration-line: underline;
+    background-color: #7c3aed;
+    padding: 2rem;
 }
 
 /* Textarea */
