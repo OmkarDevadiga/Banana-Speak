@@ -1,74 +1,78 @@
 /* Body */
 
-body{
-    margin: 0px auto;
-    width: 100%;
-    position: fixed;
-    top: 0px;
-    left: 0px;
+*{
+  margin-top: 0;
+}
+
+body {
+  margin: 0px auto;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 
 /* Heading */
 
-h1{
-    text-align: center;
-    font-size: 2rem;
-    text-decoration-line: underline;
-    background-color: #7c3aed;
-    padding: 2rem;
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  text-decoration-line: underline;
+  background-color: #7c3aed;
+  padding: 2rem;
 }
 
 /* Textarea */
 
-textarea{
-    display: block;
-    width: 80%;
-    margin: 2rem auto;
-    padding: 2rem;
+textarea {
+  display: block;
+  width: 80%;
+  margin: 2rem auto;
+  padding: 2rem;
 }
 
 /* Output area */
 
-#output{
-    width: 80%;
-    height: 20vh;
-    border: 2px solid black;
-    margin: 2rem auto;
-    padding: 2rem;
+#output {
+  width: 80%;
+  height: 20vh;
+  border: 2px solid black;
+  margin: 2rem auto;
+  padding: 2rem;
 }
 
-#output-logo{
-    text-align: center;
-    font-size: 2rem;
+#output-logo {
+  text-align: center;
+  font-size: 2rem;
 }
 
 /* Button */
 
-#btn{
-    text-align: center;
-    margin: 1rem;
-    padding: 1rem;
+#btn {
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
 }
 
-#btn-translate{  
-    padding: 1rem;
-    border: 2px solid black;
-    border-radius: 1rem;
-    font-size: 20px;
+#btn-translate {
+  padding: 1rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+  font-size: 20px;
 }
 
-#btn-translate:hover{
-    background-color: coral;
+#btn-translate:hover {
+  background-color: coral;
 }
 
-#btn-reset{  
-    padding: 1rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
-    border: 2px solid black;
-    border-radius: 1rem;
-    font-size: 20px;
+#btn-reset {
+  padding: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+  font-size: 20px;
 }
-#btn-reset:hover{
-    background-color: coral;
+#btn-reset:hover {
+  background-color: coral;
 }

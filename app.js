@@ -31,3 +31,4 @@ function reset(){
 }; 
 
 btnReset.addEventListener("click", reset);
+
